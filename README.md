@@ -5,9 +5,11 @@ tools used
 4) Tensorflow
 5) sklearn
 6) skimage 
+7) pandas
 
 Method to run this project
 1) first download datasets from kaggle competition. There are all together 5 classes.You canb see in metadata.
+
 
 2) use splitting_datasets.py code to split the images to respective foldrrs.
 
@@ -17,7 +19,7 @@ Method to run this project
 
 4) run Model_and_training.ipynb to for training.
 
-5) After saving model run prediction.ipynb to predict the result.
+5) After saving model, run prediction.ipynb to predict the result.
 
 
 
